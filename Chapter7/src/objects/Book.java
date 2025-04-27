@@ -1,6 +1,6 @@
 package objects;
 
-public class Book {
+public class Book{
 	int bookNumber;   //책번호
 	String bookTitle; //책제목
 	
@@ -26,8 +26,5 @@ public class Book {
 		
 		return false;
 	}
-	
-	
-	
 	
 }
