@@ -4,4 +4,7 @@
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
     <fullyQualifiedTypeName name="interfaces.remote_control.RemoteControl"/>
+    <fullyQualifiedTypeName name="abstract_class.game_level.AdvancedLevel"/>
+    <fullyQualifiedTypeName name="abstract_class.game_level.SuperLevel"/>
+    <fullyQualifiedTypeName name="interfaces.scheduler.Scheduler"/>
 </qualifiedTypeNameHistroy>
