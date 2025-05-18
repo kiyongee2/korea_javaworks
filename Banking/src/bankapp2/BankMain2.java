@@ -139,7 +139,7 @@ public class BankMain2 {
 			
 			if(findAccount(ano) != null) { //계좌가 이미 저장되어있다면
 				System.out.println("이미 등록된 계좌입니다. 다시 입력해 주세요");
-			}else {
+			}else { //계좌가 없다면
 				System.out.print("계좌주: ");
 				String owner = scan.nextLine();
 				

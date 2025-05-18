@@ -7,4 +7,5 @@
     <fullyQualifiedTypeName name="abstract_class.game_level.AdvancedLevel"/>
     <fullyQualifiedTypeName name="abstract_class.game_level.SuperLevel"/>
     <fullyQualifiedTypeName name="interfaces.scheduler.Scheduler"/>
+    <fullyQualifiedTypeName name="interfaces.innerInterface.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
