@@ -26,10 +26,10 @@ public class HashMapTest {
 		map.put("이순신", 90);
 		
 		//map 객체 출력
-		System.out.println(map);
+		System.out.println(map);  //{홍길동=75, 강감찬=95, 이순신=90}
 		
 		//요소 삭제
-		if(map.containsKey("홍길동")) {
+		if(map.containsKey("홍길동")) { //안전한 삭제
 			map.remove("홍길동");
 		}
 		

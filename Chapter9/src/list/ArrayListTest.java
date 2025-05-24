@@ -15,7 +15,7 @@ public class ArrayListTest {
 		vegeList.add("감자");
 		
 		//리스트 출력
-		System.out.println(vegeList);
+		System.out.println(vegeList); //[양파, 마늘, 감자]
 		
 		//요소의 개수(배열은 length, 리스트는 size())
 		System.out.printf("총 요소수: %d개\n", vegeList.size());
